@@ -3,12 +3,13 @@
 ![Workflow result](https://github.com/mbertram/jetpack-compose-challenge-week1/workflows/Check/badge.svg)
 
 ## :scroll: Description
-<!--- Describe your app in one or two sentences -->
-
+Adopt A Puppy is an Android app listing puppies put up for adoption.
 
 ## :bulb: Motivation and Context
 
-All pictures are from [Pexels](https://www.pexels.com/)
+This is a demo project for the [\#AndroidDevChallenge](https://developer.android.com/dev-challenge). All UI is written using Jetpack Compose.
+
+All pictures are from [Pexels](https://www.pexels.com/).
 
 ## :camera_flash: Screenshots
 <img src="/results/screenshot_1.png" width="260">&emsp;<img src="/results/screenshot_2.png" width="260">
